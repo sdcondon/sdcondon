@@ -38,7 +38,7 @@ I'm occasionally moved to create a gist when I come up with something cool that 
 
 Old retired stuff that I probably shouldn't bother drawing attention to:
 
-* **[GLHDN](https://github.com/sdcondon/GLHDN):** Same idea as MyOTKE (see above), but using bindings provided by the OpenGL.Net package. Retired it when I realised that OpenTK was bigger and more active.**
+* **[GLHDN](https://github.com/sdcondon/GLHDN):** Same idea as MyOTKE (see above), but using bindings provided by the OpenGL.Net package. Retired it when I realised that OpenTK was bigger and more active.
 * **[SwashbuckleDynamicLocalisation](https://github.com/sdcondon/SwashbuckleDynamicLocalization):** Localisation functionality for Swashbuckle
 
 <!--
