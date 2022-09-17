@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm a professional developer hailing from London in the UK. C# is my go-to language these days (though I am starting to make an attempt to get back into C++). My day job typically involves fairly standard enterprise back-end rigamarole - Web APIs, messaging, cloud platforms, databases, and such. My personal time interests tend to be a little more algorithmic in nature, as is hopefully evidence by the repos you'll find here. Here's a somewhat categorised overview of the most interesting public ones:
+I'm a professional developer hailing from London in the UK. C# is my go-to language these days (though I am starting to make an attempt to get back into C++). My day job typically involves fairly standard enterprise back-end rigamarole - Web APIs, messaging, cloud platforms, databases, and such. My personal time interests tend to be a little more algorithmic in nature, as is hopefully evidence by the repos you'll find here. Below, you will find a somewhat categorised overview of the most interesting public ones.
 
 ### Testing
 
