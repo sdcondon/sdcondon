@@ -20,7 +20,7 @@ I'm a professional developer hailing from London in the UK. C# is my go-to langu
 
 ### Graphics
 
-* **[MyOTKE](https://github.com/sdcondon/MyOTKE):** I got interested in how OpenGL worked at one point, so I made this. A very basic graphics library built on top of the Open toolkit.
+* **[MyOTKE](https://github.com/sdcondon/MyOTKE):** I got interested in how OpenGL worked at one point, so I made this. A very basic graphics library built on top of the [Open Toolkit](https://opentk.net/).
 * **[![NuGet version (SharpFontStandard.Runtimes.WindowsOnly)](https://img.shields.io/nuget/v/SharpFontStandard.Runtimes.WindowsOnly.svg?style=flat-square)](https://www.nuget.org/packages/SharpFontStandard.Runtimes.WindowsOnly/) [SharpFontStandard.Runtimes](https://github.com/sdcondon/SharpFontStandard.Runtimes):** [SharpFontStandard](https://www.nuget.org/packages/SharpFontStandard/) is a managed wrapper for [FreeType](http://freetype.org/). For it to work, you obviously need the native libraries at runtime, which it very sensibly doesn't bundle. However, all of the other available packages that exist to provide the native libraries seem to include them as package content, which is entirely the wrong approach, and doesn't work well when the thing that needs it is a library rather than an app. So I made this, which does things the right way - by utilising NuGet's support for [runtime dependencies](https://learn.microsoft.com/en-us/nuget/create-packages/supporting-multiple-target-frameworks#architecture-specific-folders).
 
 ### Gists
