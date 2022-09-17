@@ -25,11 +25,11 @@ I'm Simon. I'm a professional developer hailing from London in the UK. C# is my 
 
 ### Gists
 
-I'm occasionally moved to create a gist when I come up with or encounter something cool (and small enough to express in gist form):
+I'm occasionally moved to create a gist when I come up with something cool that is small enough to express in gist form:
 
 * **[SqlServerDockerFile](https://gist.github.com/sdcondon/02ac17073e68409f40179f940ac6be77):** Dockerfile for a SQL server instance built to include a database defined in a given SQL script. Created as part of demo-ing an improved (more isolated) E2E testing approach for work.
 * **[DacPacDockerFile](https://gist.github.com/sdcondon/1bcc2e4d97903cfff62a0a6827695139):** Dockerfile for a SQL server instance built to include a database defined in a given SQL project. Created as part of demo-ing an improved (more isolated) E2E testing approach for work. 
-* **[LinqDecomposer](https://gist.github.com/sdcondon/dbbd40903084239221c0c4df2ab2ab7d):** Uses LINQ expressions to decompose and recompose objects, storing each property in a different backing store. Potentially useful when we can store things more efficiently when their decomposed (think spatial indexing). Used by one of my repos that I'm not ready to take public just yet.
+* **[LinqDecomposer](https://gist.github.com/sdcondon/dbbd40903084239221c0c4df2ab2ab7d):** Uses LINQ expressions to decompose and recompose objects, storing each property in a different backing store. Potentially useful when we can store things more efficiently when they are decomposed (think spatial indexing). Used by one of my repos that I'm not ready to take public just yet.
 * **[ExtensionScripts](https://gist.github.com/sdcondon/338b64dbc3863c9962e89dc399e04e99):** Basic example of using MEF and the Roslyn scripting API to create a scriptable extension system.
 * **[Trie](https://gist.github.com/sdcondon/43cfb8ed30f873817d4688c9664a9059):** Generic prefix tree, implementing IDictionary&lt;TKey, TValue&gt;. 
 * **[BlockingCollectionBatchPipeline](https://gist.github.com/sdcondon/5be25120916beb6a27189f0cfb173f13):** A simple periodic batching pipeline using BlockingCollections
