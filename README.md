@@ -5,9 +5,9 @@ I'm a professional developer hailing from London in the UK. C# is my go-to langu
 ### Testing
 
 * **FlUnit:** A test framework in which tests are defined with a fluent builder. Higher base level of complexity than method-based frameworks, but makes writing succinct, expressive tests (especially parameterised tests) a breeze. No more "arrange, act, assert" comments needed to clarify your test structure, and no more awkward attribute-based test argument retrieval. I use it for all of my other projects, and while its not exactly taking over the world, download counts on NuGet suggest that at least some other people like it too:
-  * **[![NuGet version (FlUnit)](https://img.shields.io/nuget/v/FlUnit.svg?style=flat-square)](https://www.nuget.org/packages/FlUnit/) [FlUnit](https://github.com/sdcondon/FlUnit):** The core library.
-  * **[![NuGet version (FlUnit.Abstractions)](https://img.shields.io/nuget/v/FlUnit.Abstractions.svg?style=flat-square)](https://www.nuget.org/packages/FlUnit.Abstractions/) [FlUnit.Abstractions](https://github.com/sdcondon/FlUnit.Abstractions):** Shared abstractions between the core library and test adapters
-  * **[![NuGet version (FlUnit.VS.TestAdapter)](https://img.shields.io/nuget/v/FlUnit.VS.TestAdapter.svg?style=flat-square)](https://www.nuget.org/packages/FlUnit.VS.TestAdapter/) [FlUnit.Adapters.VSTest](https://github.com/sdcondon/FlUnit.Adapters.VSTest):** Test adapter for VSTest
+  * **[![NuGet version (FlUnit)](https://img.shields.io/nuget/v/FlUnit.svg?style=flat)](https://www.nuget.org/packages/FlUnit/) [FlUnit](https://github.com/sdcondon/FlUnit):** The core library.
+  * **[![NuGet version (FlUnit.Abstractions)](https://img.shields.io/nuget/v/FlUnit.Abstractions.svg?style=flat)](https://www.nuget.org/packages/FlUnit.Abstractions/) [FlUnit.Abstractions](https://github.com/sdcondon/FlUnit.Abstractions):** Shared abstractions between the core library and test adapters
+  * **[![NuGet version (FlUnit.VS.TestAdapter)](https://img.shields.io/nuget/v/FlUnit.VS.TestAdapter.svg?style=flat)](https://www.nuget.org/packages/FlUnit.VS.TestAdapter/) [FlUnit.Adapters.VSTest](https://github.com/sdcondon/FlUnit.Adapters.VSTest):** Test adapter for VSTest
   
 ### AI and AI-adjacent stuff
 
