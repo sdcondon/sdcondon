@@ -35,7 +35,7 @@ I'm occasionally moved to create a gist when I come up with something cool that 
 * **[Trie](https://gist.github.com/sdcondon/43cfb8ed30f873817d4688c9664a9059):** Generic prefix tree, implementing IDictionary&lt;TKey, TValue&gt;. 
 * **[BlockingCollectionBatchPipeline](https://gist.github.com/sdcondon/5be25120916beb6a27189f0cfb173f13):** A simple periodic batching pipeline using BlockingCollections
 
-### Archived
+### [Archived](https://github.com/sdcondon?tab=repositories&type=archived)
 
 Old archived stuff that I probably shouldn't bother drawing attention to:
 
