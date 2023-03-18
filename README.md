@@ -2,8 +2,6 @@ Hi there! 👋
 
 I'm a professional developer from London in the UK. C# is my go-to language these days. My day job typically involves fairly standard enterprise back-end rigamarole - Web APIs, messaging, cloud platforms, databases, and such. My personal time interests tend to be a little more algorithmic in nature, as is hopefully evidenced by the repos you'll find here. Below, you will find a somewhat categorised overview of the most interesting public ones.
 
-## My Public Repos
-
 ### Testing
 
 * **[FlUnit](https://github.com/sdcondon?tab=repositories&q=FlUnit&sort=name):** A .NET test framework in which tests are defined with a fluent builder. Higher base level of complexity than method-based frameworks, but makes writing succinct, expressive tests (especially parameterised tests) a breeze. No more "arrange, act, assert" comments needed to clarify your test structure, and no more awkward attribute-based test argument retrieval. I use it for all of my other projects, and while its not exactly taking over the world, download counts on NuGet suggest that at least some other people like it too:
@@ -43,15 +41,6 @@ Old archived stuff that I probably shouldn't bother drawing attention to:
 
 * **[GLHDN](https://github.com/sdcondon/GLHDN):** Same idea as MyOTKE (see above), but using bindings provided by the OpenGL.Net package. Retired it when I realised that OpenTK was bigger and more active.
 * **[SwashbuckleDynamicLocalisation](https://github.com/sdcondon/SwashbuckleDynamicLocalization):** Localisation functionality for Swashbuckle
-
-## What I'm Up To At The Moment
-
-1. Getting my head back into world of Web APIs, messaging, databases and microservices - I've been on a career break for a little too long, and need to get back to work. Need to re-acquaint myself with things. To that end, I'm putting together a set of APIs for my website, just as a "playground" to experiment with.
-1. Continuing to work on my Nuget packages - I've neglected [FlUnit](https://github.com/sdcondon?tab=repositories&q=FlUnit&sort=name) for a while - so will likely turn my attention to that for a bit.
-1. As always, vaguely musing about stuff I might want to add to the portfolio. There's nothing here that'll happen any time soon, but at the top of the list are:
-   * Something a little like [JsonApiDotNetCore](https://www.jsonapi.net/) that plays a little nicer with a hexagonal architecture. JsonApiDotNetCore's "DB first" approach suggests that its most useful for anaemic, CRUD services - which means that I'm not a huge fan.
-   * A Blazor WASM port of FuGet - it's a great tool, but I think the servers come under a bit of strain from time to time. A client-side version would be nice for my documentation websites.
-   * (Having gotten tired of waiting for try dotnet to improve) An extension to [markdig](https://github.com/xoofx/markdig) that uses the compiler platform to compile C# code blocks far enough to recognise syntax, types and members - enough to do syntax highlighting and display type and member docs on mouseover. Reasoning - when looking at new libs, (I'm not that bothered about being able to run code in the browser, but..) I'd like to be able to see type and member docs with zero effort, to get my head around the APIs.
 
 <!--
 **sdcondon/sdcondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
