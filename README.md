@@ -26,7 +26,7 @@ I'm a professional developer from London in the UK. C# is my go-to language thes
 
 ### [Gists](https://gist.github.com/sdcondon)
 
-I'm occasionally moved to create a gist when I come up with something cool that is small enough to express in gist form:
+I'm occasionally moved to create a gist when I come up with something intreresting that is small enough to express in gist form:
 
 * **[SqlServerDockerFile](https://gist.github.com/sdcondon/02ac17073e68409f40179f940ac6be77):** Dockerfile for a SQL server instance built to include a database defined in a given SQL script. Created as part of demo-ing an improved (more isolated) E2E testing approach for work.
 * **[DacPacDockerFile](https://gist.github.com/sdcondon/1bcc2e4d97903cfff62a0a6827695139):** Dockerfile for a SQL server instance built to include a database defined in a given SQL project. Created as part of demo-ing an improved (more isolated) E2E testing approach for work. 
