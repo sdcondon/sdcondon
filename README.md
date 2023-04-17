@@ -35,13 +35,6 @@ I'm occasionally moved to create a gist when I come up with something cool that 
 * **[Trie](https://gist.github.com/sdcondon/43cfb8ed30f873817d4688c9664a9059):** Generic prefix tree, implementing IDictionary&lt;TKey, TValue&gt;. 
 * **[BlockingCollectionBatchPipeline](https://gist.github.com/sdcondon/5be25120916beb6a27189f0cfb173f13):** A simple periodic batching pipeline using BlockingCollections
 
-### [Archived](https://github.com/sdcondon?tab=repositories&type=archived)
-
-Old archived stuff that I probably shouldn't bother drawing attention to:
-
-* **[GLHDN](https://github.com/sdcondon/GLHDN):** Same idea as MyOTKE (see above), but using bindings provided by the OpenGL.Net package. Retired it when I realised that OpenTK was bigger and more active.
-* **[SwashbuckleDynamicLocalisation](https://github.com/sdcondon/SwashbuckleDynamicLocalization):** Localisation functionality for Swashbuckle
-
 <!--
 **sdcondon/sdcondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
