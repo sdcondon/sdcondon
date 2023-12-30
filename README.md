@@ -18,7 +18,7 @@ I'm a professional developer from London in the UK. C# is my go-to language thes
   * **[![NuGet version (SCGraphTheory.Abstractions)](https://img.shields.io/nuget/v/SCGraphTheory.Abstractions.svg?style=flat)](https://www.nuget.org/packages/SCGraphTheory.Abstractions/) [SCGraphTheory.Abstractions](https://github.com/sdcondon/SCGraphTheory.Abstractions):** Abstractions to facilitate graph algorithms that don't depend on a particular graph representation
   * **[![NuGet version (SCGraphTheory.AdjacencyList)](https://img.shields.io/nuget/v/SCGraphTheory.AdjacencyList.svg?style=flat)](https://www.nuget.org/packages/SCGraphTheory.AdjacencyList/) [SCGraphTheory.AdjacencyList](https://github.com/sdcondon/SCGraphTheory.AdjacencyList):** Adjacency list implementation of the interfaces in SCGraphTheory.Abstractions
   * **[![NuGet version (SCGraphTheory.Search)](https://img.shields.io/nuget/v/SCGraphTheory.Search.svg?style=flat)](https://www.nuget.org/packages/SCGraphTheory.Search/) [SCGraphTheory.Search](https://github.com/sdcondon/SCGraphTheory.Search):** Search algorithms that work against any implementation of the interfaces found in SCGraphTheory.Abstractions
-*  **[SCSetTrie](https://github.com/sdcondon/SCSetTrie):** A few set trie implementations for .NET. That is, data structures for the storage of sets that facilitate fast retrieval of subsets and supersets of a query term.
+*  **[![NuGet version (SCSetTrie)](https://img.shields.io/nuget/v/SCSetTrie.svg?style=flat)](https://www.nuget.org/packages/SCSetTrie/) [SCSetTrie](https://github.com/sdcondon/SCSetTrie):** A few set trie implementations for .NET. That is, data structures for the storage of sets that facilitate fast retrieval of subsets and supersets of a query term.
 
 ### Graphics
 
