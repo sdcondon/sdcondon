@@ -9,7 +9,7 @@ I'm a professional developer from London in the UK. C# is my go-to language thes
   * **[![NuGet version (FlUnit.Abstractions)](https://img.shields.io/nuget/v/FlUnit.Abstractions.svg?style=flat)](https://www.nuget.org/packages/FlUnit.Abstractions/) [FlUnit.Abstractions](https://github.com/sdcondon/FlUnit.Abstractions):** Abstractions shared by the core library and test adapters
   * **[![NuGet version (FlUnit.VS.TestAdapter)](https://img.shields.io/nuget/v/FlUnit.VS.TestAdapter.svg?style=flat)](https://www.nuget.org/packages/FlUnit.VS.TestAdapter/) [FlUnit.Adapters.VSTest](https://github.com/sdcondon/FlUnit.Adapters.VSTest):** Test adapter for VSTest
   
-### AI and AI-adjacent
+### AI and Mathematics
 
 * **[![NuGet version (SCClassicalPlanning)](https://img.shields.io/nuget/v/SCClassicalPlanning.svg?style=flat)](https://www.nuget.org/packages/SCClassicalPlanning/) [SCClassicalPlanning](https://github.com/sdcondon/SCClassicalPlanning):** Basic but fully functional and documented [classical planning](https://www.google.com/search?q=classical+planning) implementations for .NET. Somewhat influenced by chapter 10 of "Artificial Intelligence: A Modern Approach" (Russell &amp; Norvig).
 * **[SCFirstOrderLogic](https://github.com/sdcondon?tab=repositories&q=SCFirstOrderLogic&sort=name):** Basic but fully functional and documented [first-order logic](https://www.google.com/search?q=first-order+logic) implementations for .NET. Heavily influenced by chapters 8 and 9 of "Artificial Intelligence: A Modern Approach" (Russell &amp; Norvig).
