@@ -1,13 +1,6 @@
 Hi there! 👋
 
 I'm a professional developer from London in the UK. C# is my go-to language these days. My day job typically involves fairly standard enterprise back-end rigamarole - Web APIs, messaging, cloud platforms, databases, and such. My personal time interests tend to be a little more algorithmic in nature, as is hopefully evidenced by the repos you'll find here. Below, you will find a somewhat categorised overview of the most interesting public ones.
-
-### Testing
-
-* **[FlUnit](https://github.com/sdcondon?tab=repositories&q=FlUnit&sort=name):** A .NET test framework in which tests are defined with a fluent builder. Higher base level of complexity than method-based frameworks, but makes writing succinct, expressive tests (especially parameterised tests) a breeze. No more "arrange, act, assert" comments needed to clarify your test structure, and no more awkward attribute-based test argument retrieval. I use it for all of my other projects, and while its not exactly taking over the world, download counts on NuGet suggest that at least some other people like it too:
-  * **[![NuGet version (FlUnit)](https://img.shields.io/nuget/v/FlUnit.svg?style=flat)](https://www.nuget.org/packages/FlUnit/) [FlUnit](https://github.com/sdcondon/FlUnit):** The core library.
-  * **[![NuGet version (FlUnit.Abstractions)](https://img.shields.io/nuget/v/FlUnit.Abstractions.svg?style=flat)](https://www.nuget.org/packages/FlUnit.Abstractions/) [FlUnit.Abstractions](https://github.com/sdcondon/FlUnit.Abstractions):** Abstractions shared by the core library and test adapters
-  * **[![NuGet version (FlUnit.VS.TestAdapter)](https://img.shields.io/nuget/v/FlUnit.VS.TestAdapter.svg?style=flat)](https://www.nuget.org/packages/FlUnit.VS.TestAdapter/) [FlUnit.Adapters.VSTest](https://github.com/sdcondon/FlUnit.Adapters.VSTest):** Test adapter for VSTest
   
 ### AI and Mathematics
 
@@ -20,6 +13,13 @@ I'm a professional developer from London in the UK. C# is my go-to language thes
   * **[![NuGet version (SCGraphTheory.Abstractions)](https://img.shields.io/nuget/v/SCGraphTheory.Abstractions.svg?style=flat)](https://www.nuget.org/packages/SCGraphTheory.Abstractions/) [SCGraphTheory.Abstractions](https://github.com/sdcondon/SCGraphTheory.Abstractions):** Abstractions to facilitate graph algorithms that don't depend on a particular graph representation
   * **[![NuGet version (SCGraphTheory.AdjacencyList)](https://img.shields.io/nuget/v/SCGraphTheory.AdjacencyList.svg?style=flat)](https://www.nuget.org/packages/SCGraphTheory.AdjacencyList/) [SCGraphTheory.AdjacencyList](https://github.com/sdcondon/SCGraphTheory.AdjacencyList):** Mutable, in-memory adjacency list implementation of the interfaces in SCGraphTheory.Abstractions
   * **[![NuGet version (SCGraphTheory.Search)](https://img.shields.io/nuget/v/SCGraphTheory.Search.svg?style=flat)](https://www.nuget.org/packages/SCGraphTheory.Search/) [SCGraphTheory.Search](https://github.com/sdcondon/SCGraphTheory.Search):** Search algorithms that work against any implementation of the interfaces found in SCGraphTheory.Abstractions
+
+### Testing
+
+* **[FlUnit](https://github.com/sdcondon?tab=repositories&q=FlUnit&sort=name):** A .NET test framework in which tests are defined with a fluent builder. Higher base level of complexity than method-based frameworks, but makes writing succinct, expressive tests (especially parameterised tests) a breeze. No more "arrange, act, assert" comments needed to clarify your test structure, and no more awkward attribute-based test argument retrieval. I use it for all of my other projects, and while its not exactly taking over the world, download counts on NuGet suggest that at least some other people like it too:
+  * **[![NuGet version (FlUnit)](https://img.shields.io/nuget/v/FlUnit.svg?style=flat)](https://www.nuget.org/packages/FlUnit/) [FlUnit](https://github.com/sdcondon/FlUnit):** The core library.
+  * **[![NuGet version (FlUnit.Abstractions)](https://img.shields.io/nuget/v/FlUnit.Abstractions.svg?style=flat)](https://www.nuget.org/packages/FlUnit.Abstractions/) [FlUnit.Abstractions](https://github.com/sdcondon/FlUnit.Abstractions):** Abstractions shared by the core library and test adapters
+  * **[![NuGet version (FlUnit.VS.TestAdapter)](https://img.shields.io/nuget/v/FlUnit.VS.TestAdapter.svg?style=flat)](https://www.nuget.org/packages/FlUnit.VS.TestAdapter/) [FlUnit.Adapters.VSTest](https://github.com/sdcondon/FlUnit.Adapters.VSTest):** Test adapter for VSTest
 
 ### Graphics
 
