@@ -2,7 +2,7 @@ Hi there! 👋
 
 I'm a professional developer from London in the UK. C# is my go-to language these days. My day job typically involves fairly standard enterprise back-end rigamarole - Web APIs, messaging, cloud platforms, databases, and such. My personal time interests tend to be a little more algorithmic in nature, as is hopefully evidenced by the repos you'll find here. Below, you will find a somewhat categorised overview of the most interesting public ones.
   
-### AI and Mathematics
+### Mathematics and AI
 
 * **[![NuGet version (SCClassicalPlanning)](https://img.shields.io/nuget/v/SCClassicalPlanning.svg?style=flat)](https://www.nuget.org/packages/SCClassicalPlanning/) [SCClassicalPlanning](https://github.com/sdcondon/SCClassicalPlanning):** Basic but fully functional and documented [classical planning](https://www.google.com/search?q=classical+planning) implementations for .NET.
 * **[SCFirstOrderLogic](https://github.com/sdcondon?tab=repositories&q=SCFirstOrderLogic&sort=name):** Basic but fully functional and documented [first-order logic](https://www.google.com/search?q=first-order+logic) implementations for .NET.
