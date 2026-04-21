@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm a professional developer from London in the UK. C# is my go-to language these days. My day job typically involves fairly standard enterprise back-end rigamarole - Web APIs, messaging, cloud platforms, databases, and such. My personal time interests tend to be a little more algorithmic in nature, as is hopefully evidenced by the repos you'll find here. Below, you will find a somewhat categorised overview of the most interesting public ones.
+I'm a professional developer from London in the UK. C# is my go-to language these days. My day job typically involves fairly standard enterprise back-end rigamarole - Web APIs, messaging, cloud platforms, databases, and such. My personal time interests tend to be a little more algorithmic in nature, as is evidenced by the repos you'll find here. Below, you will find a somewhat categorised overview of the most interesting public ones.
   
 ### Mathematics and AI
 
@@ -27,7 +27,7 @@ I'm a professional developer from London in the UK. C# is my go-to language thes
 
 ### [Gists](https://gist.github.com/sdcondon)
 
-I'm occasionally moved to create a gist when I come up with something intreresting that is small enough to express in gist form:
+I'm occasionally moved to create a gist when I come up with something interesting that is small enough to express in gist form:
 
 * **[SqlServerDockerFile](https://gist.github.com/sdcondon/02ac17073e68409f40179f940ac6be77):** Dockerfile for a SQL server instance built to include a database defined in a given SQL script. Created as part of demo-ing an improved (more isolated) E2E testing approach for work.
 * **[DacPacDockerFile](https://gist.github.com/sdcondon/1bcc2e4d97903cfff62a0a6827695139):** Dockerfile for a SQL server instance built to include a database defined in a given SQL project. Created as part of demo-ing an improved (more isolated) E2E testing approach for work. 
